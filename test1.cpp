@@ -5,5 +5,5 @@ using namespace std;
 
 int main()
 {
-	assert(1);
+	assert(false);
 }
