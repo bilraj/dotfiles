@@ -5,6 +5,6 @@ using namespace std;
 
 int main()
 {
-	assert(1 == 243);
+	assert(1432 == 243);
 	assert(false);
 }
