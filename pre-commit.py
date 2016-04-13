@@ -36,6 +36,7 @@ class Compiler:
 				p.communicate()
 				success += 1
 				count += 1
+				print("Success")
 				
 			except subprocess.CalledProcessError as grepx:
 				print("Test failed")
